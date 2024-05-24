@@ -21,6 +21,8 @@ class PrecoBitcoin:
         else:
             raise Exception("Soup não está inicializado. Chame busca_dados() primeiro.")
 
+test
+
 
 
 
